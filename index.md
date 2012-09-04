@@ -11,6 +11,3 @@
 - [readme.md](readme.md)
 - [reference-links.md](reference-links.md)
 - [tables.md](tables.md)
-
-
-[About](/about/)
