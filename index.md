@@ -1,4 +1,4 @@
-# Documentation index #
+# Samples #
 
 - [blockquotes.md](blockquotes.md)
 - [code.md](code.md)
