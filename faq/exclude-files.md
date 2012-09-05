@@ -2,11 +2,16 @@ You can limit the files that are deployed by selecting the **Only files needed t
 
 If these options are not flexible enough for you, edit the .pubxml or the .wpp.targets file and add an **ExcludeFilesFromDeployment** element or an **ExcludeFoldersFromDeployment** element (or both) in the **PropertyGroup** element. In each element, you can specify a single name, or you can specify multiple names delimited by semicolons (;), as shown in the following example:
 
-`<PropertyGroup">
-  <ExcludeFilesFromDeployment>
-    File1.aspx;File2.aspx
-  </ExcludeFilesFromDeployment>
-  <ExcludeFoldersFromDeployment>
-    Folder1;Folder2
-  </ExcludeFoldersFromDeployment>
-</PropertyGroup> `
+    <PropertyGroup>
+      <ExcludeFilesFromDeployment>
+        File1.aspx;File2.aspx
+      </ExcludeFilesFromDeployment>
+      <ExcludeFoldersFromDeployment>
+        Folder1;Folder2
+      </ExcludeFoldersFromDeployment>
+    </PropertyGroup>
+
+For more information, see the following posts on Sayed Hashimi's blog:
+
+1. [Web Deployment Tool (MSDeploy): Build Package including extra files or excluding specific files](http://sedodream.com/2010/05/01/WebDeploymentToolMSDeployBuildPackageIncludingExtraFilesOrExcludingSpecificFiles.aspx)
+1. [Web Deployment Tool (MSDeploy): How to exclude files from package based on Configuration](http://sedodream.com/2010/08/15/WebDeploymentToolMSDeployHowToExcludeFilesFromPackageBasedOnConfiguration.aspx)
