@@ -17,3 +17,8 @@ If you are familiar with MSBuild syntax, you can find details about how these th
 These files can be found at the following location in a computer that has Visual Studio installed:
 
 `C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\Web\`
+
+
+
+---
+*Last edited by Sayed Ibrahim Hashimi*
