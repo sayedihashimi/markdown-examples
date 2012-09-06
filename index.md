@@ -27,12 +27,8 @@ You can deploy a web application project by using one-click publish or a deploym
 
 Which of these methods you use depends on your scenario and your personal preference. One-click publish is typically the best choice for smaller organizations that do not implement a continuous integration (CI) development process. You would typically deploy to a hosting company where your application runs either in a shared hosting environment or on a dedicated server. (In a shared hosting environment, a single server is used to host sites for multiple hosting company clients.)
 
-[deploy image](/images/IC372329.png)
+![deploy image](/images/IC372329.png)
 
-![](http://)
 ***
 
 ## Check out our Web Publishing [FAQs](faq.md). ##
-
-***
-Test from github.com
