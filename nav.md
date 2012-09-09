@@ -1,4 +1,3 @@
-
 <header id="topHeader">
 <section id="headerLogo">
 <img src="/images/logo-16.png" alt="logo" />
@@ -12,5 +11,3 @@
 
 </nav>
 </header>
-
- 
