@@ -4,10 +4,7 @@
 <span>Web Publish Docs for Visual Studio 2012</span>
 </section>
 <nav>
-
 - [home](/)
 - [faq](/faq.md)
-
-
 </nav>
 </header>
