@@ -1,4 +1,4 @@
-# Web Publishing with Visual Studio 2012 #
+# Web Application Project Deployment Overview for Visual Studio and ASP.NET #
 
 This topic provides an overview of the tasks that are required to publish (deploy) a Visual Studio web application project to a server where others can access the application over the Internet.
 
